@@ -1,1 +1,1 @@
-A Go project that checks the status of a website that is found in a slice.
+A Go project to learn how Channels and Go Routines work.
